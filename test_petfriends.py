@@ -1,6 +1,4 @@
 import pytest
-from selenium.webdriver.common.by import By
-from time import sleep
 from  settings import all_pets_page, my_pets_page
 
 '''Тестовый класс тестирования страницы "https://petfriends.skillfactory.ru/all_pets"'''
