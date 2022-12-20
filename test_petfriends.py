@@ -1,5 +1,5 @@
 import pytest
-from  settings import all_pets_page, my_pets_page
+from settings import all_pets_page, my_pets_page
 
 '''Тестовый класс тестирования страницы "https://petfriends.skillfactory.ru/all_pets"'''
 class TestAllPets:
